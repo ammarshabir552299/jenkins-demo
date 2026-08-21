@@ -1,0 +1,8 @@
+{
+  "name": "jenkins-demo",
+  "version": "1.0.0",
+  "scripts": {
+    "test": "node test.js",
+    "build": "mkdir -p build && cp app.js build/app.js"
+  }
+}
